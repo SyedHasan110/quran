@@ -1,4 +1,4 @@
-# Quran
+# Uthman Taha Hafs Nastaleeq Font.
 Uthman Taha Hafs Nastaleeq Quran font modified by me. Also the overlapping of some characters does not happen in the modified font.
 ## Screenshots
 
