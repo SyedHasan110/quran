@@ -2,4 +2,4 @@
 Uthman Taha Hafs Nastaleeq Quran font modified by me. Also the overlapping of some characters does not happen in the modified font.
 ## Screenshots
 
-![Screenshot_20250404_123817-1](https://github.com/user-attachments/assets/37f83964-e80d-44a9-bdd9-f4082badb451)
+![Screenshot_20250404_194921](https://github.com/user-attachments/assets/d3a28621-b2e3-4a08-a1db-49c0faefa7a1)
